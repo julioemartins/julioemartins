@@ -33,14 +33,6 @@ Node.js · TypeScript · JavaScript · Java · Python · PostgreSQL · Redis · 
   `event loop · libuv thread pool · microtasks/macrotasks · blocking vs async`  
   👉 https://github.com/julioemartins/nodeJs-DeepDive
 
-- **(Your Project #2)** – concise one-liner of impact and stack  
-  👉 https://github.com/julioemartins/<repo-2>
-
-- **(Your Project #3)** – concise one-liner of impact and stack  
-  👉 https://github.com/julioemartins/<repo-3>
-
-> Tip: pin these repos on your profile so they show up first.
-
 ---
 
 ### Engineering principles I run with
