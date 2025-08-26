@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Julio Martins — Senior Engineer & Team Lead</h1>
 
 I build high-leverage engineering teams and ship reliable software.  
