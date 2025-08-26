@@ -55,6 +55,6 @@ Node.js · TypeScript · JavaScript · Java · Python · PostgreSQL · Redis · 
 ### Work with me
 I am actively seeking a **Developer role in Portugal**, where I can contribute with strong backend expertise, Node.js fundamentals, and team leadership experience.  
 
-**LinkedIn**: [linkedin.com/in/julio-martins](https://linkedin.com/in/juliomartins/)
-**GitHub**: [github.com/julioemartins/](https://github.com/julioemartins/)
-**Email**: martins.julio@gmail.com    
+- **LinkedIn**: [linkedin.com/in/juliomartins](https://linkedin.com/in/juliomartins/)
+- **GitHub**: [github.com/julioemartins/](https://github.com/julioemartins/)
+- **Email**: martins.julio@gmail.com     
