@@ -29,7 +29,7 @@ Node.js · TypeScript · JavaScript · Java · Python · PostgreSQL · Redis · 
 ### Featured repos
 - **NodeJs Deep Dive** – runnable experiments + explanations of Node.js internals  
   `event loop · libuv thread pool · microtasks/macrotasks · blocking vs async`  
-  👉 https://github.com/julioemartins/nodeJs-DeepDive
+  https://github.com/julioemartins/nodeJs-DeepDive
 
 ---
 
