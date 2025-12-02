@@ -1,4 +1,4 @@
-<h1 align="left">Julio Martins — Senior Engineer & Team Lead</h1>
+<h1 align="left">Julio Martins - Senior Engineer & Team Lead</h1>
 
 I build high-leverage engineering teams and ship reliable software.  
 Experienced in backend (Node.js/TypeScript, Java, Python), distributed systems and product delivery.  
